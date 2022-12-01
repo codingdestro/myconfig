@@ -34,7 +34,7 @@ function themes()
   vim.cmd([[colorscheme jellybeans]])
 end
 if pcall(themes)then
-  print("run command :PackerUpdate")
+  print("")
 end
 
 -- Undercurl
