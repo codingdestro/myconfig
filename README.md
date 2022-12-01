@@ -1,8 +1,8 @@
 # myconfig
-## here you can easily setup your linux system
+## Here you can easily setup your linux system
 
-install myconfig
+Download myconfig folder.
 
-make ***setup.sh*** to executable and run it
+Make ***setup.sh*** to executable and run it
 
 copy and paste init.lua file to ***~/.config/nvim*** folder
